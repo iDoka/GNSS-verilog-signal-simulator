@@ -13,11 +13,25 @@ v1.0, 21.07.2016
 == Description      
 
 GNSS Signal Generator writen by Verilog.
-This Signal Simulator generate signal as IF signal for SDR-frontend (e.g. BladeRF).
+This Signal Simulator generate signal as IF signal for SDR-backend (e.g. BladeRF).
 
 == Features      
 
 * Written in SystemVerilog, and fully synthesisable
 * Repetitive interrupt mode, Programmed to provide 3 different interval interrupt requests
+
+
+
+== ToDo
+
+* Support the major GNSS like:
+** GPS
+** GLONASS
+** GALILEO
+** QZSS
+** BEIDOU
+
+
+== References
 
 
