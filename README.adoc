@@ -34,4 +34,6 @@ This Signal Simulator generate signal as IF signal for SDR-backend (e.g. BladeRF
 
 == References
 
+* https://www.amazon.com/Understanding-GPS-Principles-Applications-Second/dp/1580538940[Understanding GPS: Principles and Applications, Second Edition 2nd Edition. ISBN-13: 978-1580538947]
+* https://www.amazon.com/Fundamentals-GPS-Receivers-Hardware-Approach/dp/1461404088[Fundamentals of GPS Receivers: A Hardware Approach, 2012th Edition. ISBN-13: 978-1461404088]
 
